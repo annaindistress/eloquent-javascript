@@ -1,4 +1,5 @@
-# eloquent-javascript
+# Eloquent JavaScript
+
 Solutions to exercises in the book Eloquent Javascript
 
 1. ~~Values, Types, and Operators~~ *This chapter has no exercises*
