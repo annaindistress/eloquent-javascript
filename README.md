@@ -9,3 +9,4 @@ Solutions to exercises in the book Eloquent Javascript
 5. [Higher-order Functions](./05-higher-order-functions.md)
 6. [The Secret Life of Objects](./06-the-secret-life-of-objects.md)
 7. [Project: A Robot](./07-project-a-robot.md)
+8. [Bugs and Errors](./08-bugs-and-errors.md)
